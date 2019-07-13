@@ -10,6 +10,6 @@ Berawal dari chat ngecengin doi yang baru jadian, ternyata hari ini ulang tahun,
 
 Mohon maaf jika di dalam konten web ini suara saya kurang nyaman ditelinga. Tidak ada hal khusus, biar kontennya aga nambah aja. Oh iya, mungkin di beberapa layar HP dengan resolusi berbeda ada kecacatan dalam animasinya
 
-## Thanks to
+## Terimakasih Kepada
 
 https://github.com/LeoEatle/LaraBirthday
